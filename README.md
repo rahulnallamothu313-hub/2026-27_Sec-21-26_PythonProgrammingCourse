@@ -1,7 +1,6 @@
 # 2026-27_sec-21-26_PythonProgrammingCourse
 This repository contains some python programming files.
-#python programming course
-
+# Python Programming Course
 - Institution: NRIU
 - Academic Year: 2026-27
 - Course: Python Programming
